@@ -74,6 +74,7 @@ function DecimalABinario(num) {
    return binaryString;
    */
 }
+//Resuleto
 
 module.exports = {
    BinarioADecimal,
